@@ -1,2 +1,3 @@
 Hello world!
 Good bye!
+Line from user2
