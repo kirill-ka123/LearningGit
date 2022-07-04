@@ -1,3 +1,4 @@
 Hello world!
 Good bye!
 Line from user2
+Anouther line from user2
