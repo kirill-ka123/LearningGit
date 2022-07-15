@@ -1,3 +1,6 @@
 goodbye
 Line from user1
 Line from user2
+
+
+test rebase - line from user1
