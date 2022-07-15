@@ -3,3 +3,6 @@ Good bye!
 Line from user2
 Anouther line from user2
 Line from user1
+
+
+test rebase - line from user1
